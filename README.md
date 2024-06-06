@@ -1,6 +1,6 @@
-### Boas vindas ao meu perfil :blue_heart
+### Boas vindas ao meu perfil 💜
 
-Meu nome é Marcelo Paludetto
+Meu nome é dafini vitoria 
 
 - Estou estudando na [Alura](https://www.alura.com.br)
 - Estou me desenvolvendo na linguagem JavaScript
@@ -8,9 +8,11 @@ Meu nome é Marcelo Paludetto
 
 ### Você pode entrar em contato comigo :mailbox
 
-paludettomarcelo@gmail.com
+00001105638066sp@al.educacao.sp.gov.br
 
-@marcelopaludetto
 
-![descrição do GIF](link GIF do Tenor)
+
+![descrição do GIF](<img src="https://cdn.dicionariopopular.com/imagens/boo-dormindo.gif" alt="Personagem Boo, da animação Monstros S.A., bocejando"/>![image]()
+)
+
 
